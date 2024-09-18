@@ -19,7 +19,7 @@ public class ReturnTypes {
     }
 
     public int subtract(int a, int b){
-        int difference = a-b;
+        int difference = a - b;
         return difference;
     }
 
