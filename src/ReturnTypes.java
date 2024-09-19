@@ -8,7 +8,7 @@ public class ReturnTypes {
         System.out.println("Sum: " + add(5,8));
         System.out.println("Difference: " + subtract(10,3));
         System.out.println("Product: " + multiply(4,7));
-        System.out.println("Quotient: " + divide(12,3));
+        System.out.println("Quotient: " + divide(12, 3));
         System.out.println("Remainder: " + remainder(45, 6));
         System.out.println("Exponent: " + exponent(3, 4));
     }
